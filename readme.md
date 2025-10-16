@@ -1,5 +1,5 @@
 Author: Kameron Rodriguez
 
-Purpose: My First Javascript Project.
+Purpose: My First JavaScript Project.
 Changelog:
 - Update 1 
